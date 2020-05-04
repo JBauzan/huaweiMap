@@ -1,0 +1,17 @@
+{
+  "name": "huaweiMap",
+  "version": "0.0.1",
+  "description": "Prueba Mapa Huawei",
+  "cordova": {
+    "id": "cordova-plugin-huawei-map",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "jockxz",
+  "license": "ISC"
+}
