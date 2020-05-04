@@ -1,4 +1,4 @@
-package cordova-plugin-huawei-map;
+package com.jockxz.ionic.huaweimap;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
